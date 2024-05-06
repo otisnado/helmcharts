@@ -3,13 +3,13 @@ entries:
   hello-world-java-chart:
   - apiVersion: v2
     appVersion: 0.17.0
-    created: "2024-05-06T15:47:07.5603853-06:00"
+    created: "2024-05-06T15:52:13.4776231-06:00"
     description: A Helm chart for Kubernetes using Hello World Java sample REST API
       with Spring Framework
-    digest: 832e3f19307aab585a624b62618dd62d658fa6da5d2dec201b0788306efcc3d4
+    digest: 72302d452fca7344feb2f5987b38b11590435793a60f7035cb6bc9d3a47053b0
     name: hello-world-java-chart
     type: application
     urls:
-    - hello-world-java-chart-0.17.0.tgz
+    - charts/hello-world-java-chart-0.17.0.tgz
     version: 0.17.0
-generated: "2024-05-06T15:47:07.5592954-06:00"
+generated: "2024-05-06T15:52:13.4763519-06:00"
